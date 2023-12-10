@@ -1,0 +1,2 @@
+This is my first comment to git repo
+ my2ndrepo git:(main) vi myfirstfile.txt
